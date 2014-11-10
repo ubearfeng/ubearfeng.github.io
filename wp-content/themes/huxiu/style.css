@@ -61,3 +61,4 @@ div.app-ad,div.app-ad:before{display:none}
 h1.logo a img,div.biaoqian.idx-biaoqian,hr.line,div.links{display:none}
 h1.logo a{display:block;background-color:#414141;background-image:url(../../../assets/LOGO.png);height:122px;width:160px}
 a.footer-logo{background-image:url(favicon.ico);height:48px;width:48px}
+div#js_content p{text-indent:2em}
